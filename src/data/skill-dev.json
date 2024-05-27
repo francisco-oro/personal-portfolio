@@ -1,0 +1,82 @@
+[
+  {
+    "id": 201, 
+    "name": "python"
+  },
+
+  {
+    "id": 2012, 
+    "name": "csharp"
+  },  
+
+  {
+    "id": 203, 
+    "name": "typescript"
+  },
+
+  {
+    "id": 204, 
+    "name": "c"
+  },
+
+  {
+    "id": 205, 
+    "name": "java"
+  },
+
+  {
+    "id": 206, 
+    "name": "javascript"
+  },
+
+  {
+    "id": 207, 
+    "name": "t-sql"
+  },
+
+  {
+    "id": 208, 
+    "name": "php"
+  },  
+  {
+    "id": 209,
+    "name": "dotnet"
+  },
+  {
+    "id": 210,
+    "name": "bootstrap"
+  },
+
+  {
+    "id": 211,
+    "name": "swagger"
+  },
+  {
+    "id": 212,
+    "name": "sqlserver"
+  },
+    {
+    "id": 212,
+    "name": "postgresql"
+  },
+  {
+    "id": 214,
+    "name": "sqlserver"
+  },
+    {
+    "id": 215,
+    "name": "angular"
+  },
+    {
+    "id": 216,
+    "name": "docker"
+  },
+    {
+    "id": 217,
+    "name": "kubernetes"
+  },
+    {
+    "id": 214,
+    "name": "drf"
+  }
+]

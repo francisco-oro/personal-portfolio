@@ -1,0 +1,18 @@
+[
+  {
+    "id": 10,
+    "name": "Recipe APP API",
+    "about": "The Recipe App API gives users access to their food recipes, store ingredients and tags assigned to them and filter or sorter based on these items. The filtering and sorting of the recipes makes it easy to search for recipes using clear queries, like api/recipe/recipes/&tags=4,2&ingredients=3",
+    "website": "https://github.com/francisco-oro/recipe-app-api",
+    "cover": "https://raw.githubusercontent.com/francisco-oro/recipe-app-api/main/images/logo.png",
+    "tech": "PostgreSQL, Django Rest Framework, Ngnix, Amazon AWS, Swagger, Docker"
+  },
+    {
+    "id": 11,
+    "name": "MVC Ecommerce",
+    "about": "The Recipe App API gives users access to their food recipes, store ingredients and tags assigned to them and filter or sorter based on these items. The filtering and sorting of the recipes makes it easy to search for recipes using clear queries, like api/recipe/recipes/&tags=4,2&ingredients=3",
+    "website": "https://github.com/francisco-oro/recipe-app-api",
+    "cover": "https://raw.githubusercontent.com/francisco-oro/recipe-app-api/main/images/logo.png",
+    "tech": "PostgreSQL, Django Rest Framework, Ngnix, Amazon AWS, Swagger, Docker"
+  }
+]
